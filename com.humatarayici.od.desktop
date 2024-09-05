@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Hüma Browser
 Exec=huma-launcher.sh %u
-Icon=io.github.zen_browser.zen
+Icon=com.humatarayici.od
 Type=Application
 MimeType=text/html;text/xml;application/xhtml+xml;x-scheme-handler/http;x-scheme-handler/https;application/x-xpinstall;application/pdf;application/json;
 StartupWMClass=huma-alpha
