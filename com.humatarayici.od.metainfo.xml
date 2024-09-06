@@ -36,6 +36,9 @@
         <screenshot type="default">
             <image>https://raw.githubusercontent.com/VastSea0/flatpak/main/363460432-514de8f9-e6d1-43fc-b568-2bc2ce1433ae.png</image>  
         </screenshot>
+        <screenshot>
+            <image>https://raw.githubusercontent.com/VastSea0/flatpak/main/image.png</image>  
+        </screenshot>
     </screenshots>
 
 </component>
