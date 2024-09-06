@@ -26,8 +26,17 @@
     </description>
 
     <releases>
-         <release version="1.0.0-0.b.1" date="2024/09/04">
+         <release version="1.0.0-0.b.1" date="2024-09-04">
             <url type="details">https://github.com/Huma-Browser/browser/releases/tag/0b1</url>
+                 <description>
+                    <p>Hüma Browser Beta 1: Features</p>
+                    <ul>
+                        <li>Work Spaces</li>
+                        <li>Customizable UI</li>
+                        <li>Vertical Tabs</li>
+                        <li>And more...</li>
+                    </ul>
+                </description>
         </release>
       
     </releases>
@@ -35,12 +44,15 @@
     <screenshots>
         <screenshot type="default">
             <image>https://raw.githubusercontent.com/VastSea0/flatpak/main/363460432-514de8f9-e6d1-43fc-b568-2bc2ce1433ae.png</image>  
+             <caption>Mutli-locale Huma Browser</caption>
         </screenshot>
         <screenshot>
-            <image>https://raw.githubusercontent.com/VastSea0/flatpak/main/image.png</image>  
+            <image>https://raw.githubusercontent.com/VastSea0/flatpak/main/image.png</image> 
+             <caption>Huma Browser New Tab Page</caption>
         </screenshot>
          <screenshot>
             <image>https://raw.githubusercontent.com/VastSea0/flatpak/main/image-1.png</image>  
+             <caption>Huma Browser Settings Page</caption>
         </screenshot>
     </screenshots>
 
