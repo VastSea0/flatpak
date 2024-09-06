@@ -2,7 +2,7 @@
 <component type="desktop-application">
     <id>com.humatarayici.od</id>
     <url type="homepage">https://humatarayici.com</url>
-
+    <content_rating type="oars-1.1" />
     <developer id="com.humatarayici.od">
         <name>Egehan KAHRAMAN</name>
     </developer>
