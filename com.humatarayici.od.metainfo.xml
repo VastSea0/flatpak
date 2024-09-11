@@ -2,6 +2,8 @@
 <component type="desktop-application">
     <id>com.humatarayici.od</id>
     <url type="homepage">https://humatarayici.com</url>
+    <url type="bugtracker">https://github.com/Huma-Browser/browser/issues</url>
+    <url type="vcs-browser">https://github.com/Huma-Browser/browser</url>
     <content_rating type="oars-1.1" />
     <developer id="com.humatarayici.od">
         <name>Egehan KAHRAMAN</name>
